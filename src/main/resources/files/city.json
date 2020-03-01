@@ -1,0 +1,5834 @@
+[
+	{
+		"id" : 1,
+		"name" : "Abana",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 2,
+		"name" : "Acıgöl",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 3,
+		"name" : "Acıpayam",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 4,
+		"name" : "Adaklı",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 5,
+		"name" : "Adalar",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 6,
+		"name" : "Adapazarı",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 7,
+		"name" : "Adıyaman",
+		"provinceId" : 2,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 8,
+		"name" : "Adilcevaz",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 9,
+		"name" : "Afşin",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 10,
+		"name" : "Afyonkarahisar",
+		"provinceId" : 3,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 11,
+		"name" : "Ağaçören",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 12,
+		"name" : "Ağın",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 13,
+		"name" : "Ağlasun",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 14,
+		"name" : "Ağlı",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 15,
+		"name" : "Ağrı",
+		"provinceId" : 4,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 16,
+		"name" : "Ahırlı",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 17,
+		"name" : "Ahlat",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 18,
+		"name" : "Ahmetli",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 19,
+		"name" : "Akçaabat",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 20,
+		"name" : "Akçadağ",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 21,
+		"name" : "Akçakale",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 22,
+		"name" : "Akçakent",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 23,
+		"name" : "Akçakoca",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 24,
+		"name" : "Akdağmadeni",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 25,
+		"name" : "Akdeniz",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 26,
+		"name" : "Akhisar",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 27,
+		"name" : "Akıncılar",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 28,
+		"name" : "Akkışla",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 29,
+		"name" : "Akkuş",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 30,
+		"name" : "Akören",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 31,
+		"name" : "Akpınar",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 32,
+		"name" : "Aksaray",
+		"provinceId" : 68,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 33,
+		"name" : "Akseki",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 34,
+		"name" : "Aksu",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 35,
+		"name" : "Aksu",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 36,
+		"name" : "Akşehir",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 37,
+		"name" : "Akyaka",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 38,
+		"name" : "Akyazı",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 39,
+		"name" : "Akyurt",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 40,
+		"name" : "Alaca",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 41,
+		"name" : "Alacakaya",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 42,
+		"name" : "Alaçam",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 43,
+		"name" : "Aladağ",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 44,
+		"name" : "Alanya",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 45,
+		"name" : "Alaplı",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 46,
+		"name" : "Alaşehir",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 47,
+		"name" : "Aliağa",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 48,
+		"name" : "Almus",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 49,
+		"name" : "Alpu",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 50,
+		"name" : "Altıeylül",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 51,
+		"name" : "Altındağ",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 52,
+		"name" : "Altınekin",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 53,
+		"name" : "Altınordu",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 54,
+		"name" : "Altınova",
+		"provinceId" : 77,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 55,
+		"name" : "Altınözü",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 56,
+		"name" : "Altıntaş",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 57,
+		"name" : "Altınyayla",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 58,
+		"name" : "Altınyayla",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 59,
+		"name" : "Altunhisar",
+		"provinceId" : 51,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 60,
+		"name" : "Alucra",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 61,
+		"name" : "Amasra",
+		"provinceId" : 74,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 62,
+		"name" : "Amasya",
+		"provinceId" : 5,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 63,
+		"name" : "Anamur",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 64,
+		"name" : "Andırın",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 65,
+		"name" : "Antakya",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 66,
+		"name" : "Araban",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 67,
+		"name" : "Araç",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 68,
+		"name" : "Araklı",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 69,
+		"name" : "Aralık",
+		"provinceId" : 76,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 70,
+		"name" : "Arapgir",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 71,
+		"name" : "Ardahan",
+		"provinceId" : 75,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 72,
+		"name" : "Ardanuç",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 73,
+		"name" : "Ardeşen",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 74,
+		"name" : "Arguvan",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 75,
+		"name" : "Arhavi",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 76,
+		"name" : "Arıcak",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 77,
+		"name" : "Arifiye",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 78,
+		"name" : "Armutlu",
+		"provinceId" : 77,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 79,
+		"name" : "Arnavutköy",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 80,
+		"name" : "Arpaçay",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 81,
+		"name" : "Arsin",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 82,
+		"name" : "Arsuz",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 83,
+		"name" : "Artova",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 84,
+		"name" : "Artuklu",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 85,
+		"name" : "Artvin",
+		"provinceId" : 8,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 86,
+		"name" : "Asarcık",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 87,
+		"name" : "Aslanapa",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 88,
+		"name" : "Aşkale",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 89,
+		"name" : "Atabey",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 90,
+		"name" : "Atakum",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 91,
+		"name" : "Ataşehir",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 92,
+		"name" : "Atkaracalar",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 93,
+		"name" : "Avanos",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 94,
+		"name" : "Avcılar",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 95,
+		"name" : "Ayancık",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 96,
+		"name" : "Ayaş",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 97,
+		"name" : "Aybastı",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 98,
+		"name" : "Aydıncık",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 99,
+		"name" : "Aydıncık",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 100,
+		"name" : "Aydıntepe",
+		"provinceId" : 69,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 101,
+		"name" : "Ayrancı",
+		"provinceId" : 70,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 102,
+		"name" : "Ayvacık",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 103,
+		"name" : "Ayvacık",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 104,
+		"name" : "Ayvalık",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 105,
+		"name" : "Azdavay",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 106,
+		"name" : "Aziziye",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 107,
+		"name" : "Babadağ",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 108,
+		"name" : "Babaeski",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 109,
+		"name" : "Bafra",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 110,
+		"name" : "Bağcılar",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 111,
+		"name" : "Bağlar",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 112,
+		"name" : "Bahçe",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 113,
+		"name" : "Bahçelievler",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 114,
+		"name" : "Bahçesaray",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 115,
+		"name" : "Bahşili",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 116,
+		"name" : "Bakırköy",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 117,
+		"name" : "Baklan",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 118,
+		"name" : "Bala",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 119,
+		"name" : "Balçova",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 120,
+		"name" : "Balışeyh",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 121,
+		"name" : "Balya",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 122,
+		"name" : "Banaz",
+		"provinceId" : 64,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 123,
+		"name" : "Bandırma",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 124,
+		"name" : "Bartın",
+		"provinceId" : 74,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 125,
+		"name" : "Baskil",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 126,
+		"name" : "Başakşehir",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 127,
+		"name" : "Başçiftlik",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 128,
+		"name" : "Başiskele",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 129,
+		"name" : "Başkale",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 130,
+		"name" : "Başmakçı",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 131,
+		"name" : "Başyayla",
+		"provinceId" : 70,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 132,
+		"name" : "Batman",
+		"provinceId" : 72,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 133,
+		"name" : "Battalgazi",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 134,
+		"name" : "Bayat",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 135,
+		"name" : "Bayat",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 136,
+		"name" : "Bayburt",
+		"provinceId" : 69,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 137,
+		"name" : "Bayındır",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 138,
+		"name" : "Baykan",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 139,
+		"name" : "Bayraklı",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 140,
+		"name" : "Bayramiç",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 141,
+		"name" : "Bayramören",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 142,
+		"name" : "Bayrampaşa",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 143,
+		"name" : "Bekilli",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 144,
+		"name" : "Belen",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 145,
+		"name" : "Bergama",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 146,
+		"name" : "Besni",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 147,
+		"name" : "Beşikdüzü",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 148,
+		"name" : "Beşiktaş",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 149,
+		"name" : "Beşiri",
+		"provinceId" : 72,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 150,
+		"name" : "Beyağaç",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 151,
+		"name" : "Beydağ",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 152,
+		"name" : "Beykoz",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 153,
+		"name" : "Beylikdüzü",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 154,
+		"name" : "Beylikova",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 155,
+		"name" : "Beyoğlu",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 156,
+		"name" : "Beypazarı",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 157,
+		"name" : "Beyşehir",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 158,
+		"name" : "Beytüşşebap",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 159,
+		"name" : "Biga",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 160,
+		"name" : "Bigadiç",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 161,
+		"name" : "Bilecik",
+		"provinceId" : 11,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 162,
+		"name" : "Bingöl",
+		"provinceId" : 12,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 163,
+		"name" : "Birecik",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 164,
+		"name" : "Bismil",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 165,
+		"name" : "Bitlis",
+		"provinceId" : 13,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 166,
+		"name" : "Bodrum",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 167,
+		"name" : "Boğazkale",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 168,
+		"name" : "Boğazlıyan",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 169,
+		"name" : "Bolu",
+		"provinceId" : 14,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 170,
+		"name" : "Bolvadin",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 171,
+		"name" : "Bor",
+		"provinceId" : 51,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 172,
+		"name" : "Borçka",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 173,
+		"name" : "Bornova",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 174,
+		"name" : "Boyabat",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 175,
+		"name" : "Bozcaada",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 176,
+		"name" : "Bozdoğan",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 177,
+		"name" : "Bozkır",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 178,
+		"name" : "Bozkurt",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 179,
+		"name" : "Bozkurt",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 180,
+		"name" : "Bozova",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 181,
+		"name" : "Boztepe",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 182,
+		"name" : "Bozüyük",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 183,
+		"name" : "Bozyazı",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 184,
+		"name" : "Buca",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 185,
+		"name" : "Bucak",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 186,
+		"name" : "Buharkent",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 187,
+		"name" : "Bulancak",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 188,
+		"name" : "Bulanık",
+		"provinceId" : 49,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 189,
+		"name" : "Buldan",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 190,
+		"name" : "Burdur",
+		"provinceId" : 15,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 191,
+		"name" : "Burhaniye",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 192,
+		"name" : "Bünyan",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 193,
+		"name" : "Büyükçekmece",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 194,
+		"name" : "Büyükorhan",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 195,
+		"name" : "Canik",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 196,
+		"name" : "Ceyhan",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 197,
+		"name" : "Ceylanpınar",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 198,
+		"name" : "Cide",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 199,
+		"name" : "Cihanbeyli",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 200,
+		"name" : "Cizre",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 201,
+		"name" : "Cumayeri",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 202,
+		"name" : "Çağlayancerit",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 203,
+		"name" : "Çal",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 204,
+		"name" : "Çaldıran",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 205,
+		"name" : "Çamardı",
+		"provinceId" : 51,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 206,
+		"name" : "Çamaş",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 207,
+		"name" : "Çameli",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 208,
+		"name" : "Çamlıdere",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 209,
+		"name" : "Çamlıhemşin",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 210,
+		"name" : "Çamlıyayla",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 211,
+		"name" : "Çamoluk",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 212,
+		"name" : "Çan",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 213,
+		"name" : "Çanakçı",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 214,
+		"name" : "Çanakkale",
+		"provinceId" : 17,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 215,
+		"name" : "Çandır",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 216,
+		"name" : "Çankaya",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 217,
+		"name" : "Çankırı",
+		"provinceId" : 18,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 218,
+		"name" : "Çardak",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 219,
+		"name" : "Çarşamba",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 220,
+		"name" : "Çarşıbaşı",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 221,
+		"name" : "Çat",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 222,
+		"name" : "Çatak",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 223,
+		"name" : "Çatalca",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 224,
+		"name" : "Çatalpınar",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 225,
+		"name" : "Çatalzeytin",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 226,
+		"name" : "Çavdarhisar",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 227,
+		"name" : "Çavdır",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 228,
+		"name" : "Çay",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 229,
+		"name" : "Çaybaşı",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 230,
+		"name" : "Çaycuma",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 231,
+		"name" : "Çayeli",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 232,
+		"name" : "Çayıralan",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 233,
+		"name" : "Çayırlı",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 234,
+		"name" : "Çayırova",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 235,
+		"name" : "Çaykara",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 236,
+		"name" : "Çekerek",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 237,
+		"name" : "Çekmeköy",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 238,
+		"name" : "Çelebi",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 239,
+		"name" : "Çelikhan",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 240,
+		"name" : "Çeltik",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 241,
+		"name" : "Çeltikçi",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 242,
+		"name" : "Çemişgezek",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 243,
+		"name" : "Çerkeş",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 244,
+		"name" : "Çerkezköy",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 245,
+		"name" : "Çermik",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 246,
+		"name" : "Çeşme",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 247,
+		"name" : "Çıldır",
+		"provinceId" : 75,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 248,
+		"name" : "Çınar",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 249,
+		"name" : "Çınarcık",
+		"provinceId" : 77,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 250,
+		"name" : "Çiçekdağı",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 251,
+		"name" : "Çifteler",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 252,
+		"name" : "Çiftlik",
+		"provinceId" : 51,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 253,
+		"name" : "Çiftlikköy",
+		"provinceId" : 77,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 254,
+		"name" : "Çiğli",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 255,
+		"name" : "Çilimli",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 256,
+		"name" : "Çine",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 257,
+		"name" : "Çivril",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 258,
+		"name" : "Çobanlar",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 259,
+		"name" : "Çorlu",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 260,
+		"name" : "Çorum",
+		"provinceId" : 19,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 261,
+		"name" : "Çubuk",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 262,
+		"name" : "Çukurca",
+		"provinceId" : 30,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 263,
+		"name" : "Çukurova",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 264,
+		"name" : "Çumra",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 265,
+		"name" : "Çüngüş",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 266,
+		"name" : "Daday",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 267,
+		"name" : "Dalaman",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 268,
+		"name" : "Damal",
+		"provinceId" : 75,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 269,
+		"name" : "Darende",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 270,
+		"name" : "Dargeçit",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 271,
+		"name" : "Darıca",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 272,
+		"name" : "Datça",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 273,
+		"name" : "Dazkırı",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 274,
+		"name" : "Defne",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 275,
+		"name" : "Delice",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 276,
+		"name" : "Demirci",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 277,
+		"name" : "Demirköy",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 278,
+		"name" : "Demirözü",
+		"provinceId" : 69,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 279,
+		"name" : "Demre",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 280,
+		"name" : "Derbent",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 281,
+		"name" : "Derebucak",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 282,
+		"name" : "Dereli",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 283,
+		"name" : "Derepazarı",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 284,
+		"name" : "Derik",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 285,
+		"name" : "Derince",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 286,
+		"name" : "Derinkuyu",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 287,
+		"name" : "Dernekpazarı",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 288,
+		"name" : "Develi",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 289,
+		"name" : "Devrek",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 290,
+		"name" : "Devrekani",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 291,
+		"name" : "Dicle",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 292,
+		"name" : "Didim",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 293,
+		"name" : "Digor",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 294,
+		"name" : "Dikili",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 295,
+		"name" : "Dikmen",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 296,
+		"name" : "Dilovası",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 297,
+		"name" : "Dinar",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 298,
+		"name" : "Divriği",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 299,
+		"name" : "Diyadin",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 300,
+		"name" : "Dodurga",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 301,
+		"name" : "Doğanhisar",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 302,
+		"name" : "Doğankent",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 303,
+		"name" : "Doğanşar",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 304,
+		"name" : "Doğanşehir",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 305,
+		"name" : "Doğanyol",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 306,
+		"name" : "Doğanyurt",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 307,
+		"name" : "Doğubayazıt",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 308,
+		"name" : "Domaniç",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 309,
+		"name" : "Dörtdivan",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 310,
+		"name" : "Dörtyol",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 311,
+		"name" : "Döşemealtı",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 312,
+		"name" : "Dulkadiroğlu",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 313,
+		"name" : "Dumlupınar",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 314,
+		"name" : "Durağan",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 315,
+		"name" : "Dursunbey",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 316,
+		"name" : "Düzce",
+		"provinceId" : 81,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 317,
+		"name" : "Düziçi",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 318,
+		"name" : "Düzköy",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 319,
+		"name" : "Eceabat",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 320,
+		"name" : "Edirne",
+		"provinceId" : 22,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 321,
+		"name" : "Edremit",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 322,
+		"name" : "Edremit",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 323,
+		"name" : "Efeler",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 324,
+		"name" : "Eflani",
+		"provinceId" : 78,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 325,
+		"name" : "Eğil",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 326,
+		"name" : "Eğirdir",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 327,
+		"name" : "Ekinözü",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 328,
+		"name" : "Elazığ",
+		"provinceId" : 23,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 329,
+		"name" : "Elbeyli",
+		"provinceId" : 79,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 330,
+		"name" : "Elbistan",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 331,
+		"name" : "Eldivan",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 332,
+		"name" : "Eleşkirt",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 333,
+		"name" : "Elmadağ",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 334,
+		"name" : "Elmalı",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 335,
+		"name" : "Emet",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 336,
+		"name" : "Emirdağ",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 337,
+		"name" : "Emirgazi",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 338,
+		"name" : "Enez",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 339,
+		"name" : "Erbaa",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 340,
+		"name" : "Erciş",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 341,
+		"name" : "Erdek",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 342,
+		"name" : "Erdemli",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 343,
+		"name" : "Ereğli",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 344,
+		"name" : "Ereğli",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 345,
+		"name" : "Erenler",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 346,
+		"name" : "Erfelek",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 347,
+		"name" : "Ergani",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 348,
+		"name" : "Ergene",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 349,
+		"name" : "Ermenek",
+		"provinceId" : 70,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 350,
+		"name" : "Eruh",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 351,
+		"name" : "Erzin",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 352,
+		"name" : "Erzincan",
+		"provinceId" : 24,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 353,
+		"name" : "Esenler",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 354,
+		"name" : "Esenyurt",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 355,
+		"name" : "Eskil",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 356,
+		"name" : "Eskipazar",
+		"provinceId" : 78,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 357,
+		"name" : "Espiye",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 358,
+		"name" : "Eşme",
+		"provinceId" : 64,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 359,
+		"name" : "Etimesgut",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 360,
+		"name" : "Evciler",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 361,
+		"name" : "Evren",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 362,
+		"name" : "Eynesil",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 363,
+		"name" : "Eyüp",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 364,
+		"name" : "Eyyübiye",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 365,
+		"name" : "Ezine",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 366,
+		"name" : "Fatih",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 367,
+		"name" : "Fatsa",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 368,
+		"name" : "Feke",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 369,
+		"name" : "Felahiye",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 370,
+		"name" : "Ferizli",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 371,
+		"name" : "Fethiye",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 372,
+		"name" : "Fındıklı",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 373,
+		"name" : "Finike",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 374,
+		"name" : "Foça",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 375,
+		"name" : "Gaziemir",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 376,
+		"name" : "Gaziosmanpaşa",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 377,
+		"name" : "Gazipaşa",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 378,
+		"name" : "Gebze",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 379,
+		"name" : "Gediz",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 380,
+		"name" : "Gelendost",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 381,
+		"name" : "Gelibolu",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 382,
+		"name" : "Gemerek",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 383,
+		"name" : "Gemlik",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 384,
+		"name" : "Genç",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 385,
+		"name" : "Gercüş",
+		"provinceId" : 72,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 386,
+		"name" : "Gerede",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 387,
+		"name" : "Gerger",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 388,
+		"name" : "Germencik",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 389,
+		"name" : "Gerze",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 390,
+		"name" : "Gevaş",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 391,
+		"name" : "Geyve",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 392,
+		"name" : "Giresun",
+		"provinceId" : 28,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 393,
+		"name" : "Gökçeada",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 394,
+		"name" : "Gökçebey",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 395,
+		"name" : "Göksun",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 396,
+		"name" : "Gölbaşı",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 397,
+		"name" : "Gölbaşı",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 398,
+		"name" : "Gölcük",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 399,
+		"name" : "Göle",
+		"provinceId" : 75,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 400,
+		"name" : "Gölhisar",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 401,
+		"name" : "Gölköy",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 402,
+		"name" : "Gölmarmara",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 403,
+		"name" : "Gölova",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 404,
+		"name" : "Gölpazarı",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 405,
+		"name" : "Gölyaka",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 406,
+		"name" : "Gömeç",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 407,
+		"name" : "Gönen",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 408,
+		"name" : "Gönen",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 409,
+		"name" : "Gördes",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 410,
+		"name" : "Görele",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 411,
+		"name" : "Göynücek",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 412,
+		"name" : "Göynük",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 413,
+		"name" : "Güce",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 414,
+		"name" : "Güçlükonak",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 415,
+		"name" : "Güdül",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 416,
+		"name" : "Gülağaç",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 417,
+		"name" : "Gülnar",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 418,
+		"name" : "Gülşehir",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 419,
+		"name" : "Gülyalı",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 420,
+		"name" : "Gümüşhacıköy",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 421,
+		"name" : "Gümüşhane",
+		"provinceId" : 29,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 422,
+		"name" : "Gümüşova",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 423,
+		"name" : "Gündoğmuş",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 424,
+		"name" : "Güney",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 425,
+		"name" : "Güneysınır",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 426,
+		"name" : "Güneysu",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 427,
+		"name" : "Güngören",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 428,
+		"name" : "Günyüzü",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 429,
+		"name" : "Gürgentepe",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 430,
+		"name" : "Güroymak",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 431,
+		"name" : "Gürpınar",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 432,
+		"name" : "Gürsu",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 433,
+		"name" : "Gürün",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 434,
+		"name" : "Güzelbahçe",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 435,
+		"name" : "Güzelyurt",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 436,
+		"name" : "Hacıbektaş",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 437,
+		"name" : "Hacılar",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 438,
+		"name" : "Hadim",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 439,
+		"name" : "Hafik",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 440,
+		"name" : "Hakkâri",
+		"provinceId" : 30,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 441,
+		"name" : "Halfeti",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 442,
+		"name" : "Haliliye",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 443,
+		"name" : "Halkapınar",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 444,
+		"name" : "Hamamözü",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 445,
+		"name" : "Hamur",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 446,
+		"name" : "Han",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 447,
+		"name" : "Hanak",
+		"provinceId" : 75,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 448,
+		"name" : "Hani",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 449,
+		"name" : "Hanönü",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 450,
+		"name" : "Harmancık",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 451,
+		"name" : "Harran",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 452,
+		"name" : "Hasanbeyli",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 453,
+		"name" : "Hasankeyf",
+		"provinceId" : 72,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 454,
+		"name" : "Hasköy",
+		"provinceId" : 49,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 455,
+		"name" : "Hassa",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 456,
+		"name" : "Havran",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 457,
+		"name" : "Havsa",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 458,
+		"name" : "Havza",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 459,
+		"name" : "Haymana",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 460,
+		"name" : "Hayrabolu",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 461,
+		"name" : "Hayrat",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 462,
+		"name" : "Hazro",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 463,
+		"name" : "Hekimhan",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 464,
+		"name" : "Hemşin",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 465,
+		"name" : "Hendek",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 466,
+		"name" : "Hınıs",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 467,
+		"name" : "Hilvan",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 468,
+		"name" : "Hisarcık",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 469,
+		"name" : "Hizan",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 470,
+		"name" : "Hocalar",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 471,
+		"name" : "Honaz",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 472,
+		"name" : "Hopa",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 473,
+		"name" : "Horasan",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 474,
+		"name" : "Hozat",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 475,
+		"name" : "Hüyük",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 476,
+		"name" : "Iğdır",
+		"provinceId" : 76,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 477,
+		"name" : "Ilgaz",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 478,
+		"name" : "Ilgın",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 479,
+		"name" : "Isparta",
+		"provinceId" : 32,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 480,
+		"name" : "İbradı",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 481,
+		"name" : "İdil",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 482,
+		"name" : "İhsangazi",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 483,
+		"name" : "İhsaniye",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 484,
+		"name" : "İkizce",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 485,
+		"name" : "İkizdere",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 486,
+		"name" : "İliç",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 487,
+		"name" : "İlkadım",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 488,
+		"name" : "İmamoğlu",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 489,
+		"name" : "İmranlı",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 490,
+		"name" : "İncesu",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 491,
+		"name" : "İncirliova",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 492,
+		"name" : "İnebolu",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 493,
+		"name" : "İnegöl",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 494,
+		"name" : "İnhisar",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 495,
+		"name" : "İnönü",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 496,
+		"name" : "İpekyolu",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 497,
+		"name" : "İpsala",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 498,
+		"name" : "İscehisar",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 499,
+		"name" : "İskenderun",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 500,
+		"name" : "İskilip",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 501,
+		"name" : "İslahiye",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 502,
+		"name" : "İspir",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 503,
+		"name" : "İvrindi",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 504,
+		"name" : "İyidere",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 505,
+		"name" : "İzmit",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 506,
+		"name" : "İznik",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 507,
+		"name" : "Kabadüz",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 508,
+		"name" : "Kabataş",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 509,
+		"name" : "Kadıköy",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 510,
+		"name" : "Kadınhanı",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 511,
+		"name" : "Kadışehri",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 512,
+		"name" : "Kadirli",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 513,
+		"name" : "Kağıthane",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 514,
+		"name" : "Kağızman",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 515,
+		"name" : "Kahta",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 516,
+		"name" : "Kale",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 517,
+		"name" : "Kale",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 518,
+		"name" : "Kalecik",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 519,
+		"name" : "Kalkandere",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 520,
+		"name" : "Kaman",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 521,
+		"name" : "Kandıra",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 522,
+		"name" : "Kangal",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 523,
+		"name" : "Kapaklı",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 524,
+		"name" : "Karabağlar",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 525,
+		"name" : "Karaburun",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 526,
+		"name" : "Karabük",
+		"provinceId" : 78,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 527,
+		"name" : "Karacabey",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 528,
+		"name" : "Karacasu",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 529,
+		"name" : "Karaçoban",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 530,
+		"name" : "Karahallı",
+		"provinceId" : 64,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 531,
+		"name" : "Karaisalı",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 532,
+		"name" : "Karakeçili",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 533,
+		"name" : "Karakoçan",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 534,
+		"name" : "Karakoyunlu",
+		"provinceId" : 76,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 535,
+		"name" : "Karaköprü",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 536,
+		"name" : "Karaman",
+		"provinceId" : 70,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 537,
+		"name" : "Karamanlı",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 538,
+		"name" : "Karamürsel",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 539,
+		"name" : "Karapınar",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 540,
+		"name" : "Karapürçek",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 541,
+		"name" : "Karasu",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 542,
+		"name" : "Karataş",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 543,
+		"name" : "Karatay",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 544,
+		"name" : "Karayazı",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 545,
+		"name" : "Karesi",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 546,
+		"name" : "Kargı",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 547,
+		"name" : "Karkamış",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 548,
+		"name" : "Karlıova",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 549,
+		"name" : "Karpuzlu",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 550,
+		"name" : "Kars",
+		"provinceId" : 36,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 551,
+		"name" : "Karşıyaka",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 552,
+		"name" : "Kartal",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 553,
+		"name" : "Kartepe",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 554,
+		"name" : "Kastamonu",
+		"provinceId" : 37,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 555,
+		"name" : "Kaş",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 556,
+		"name" : "Kavak",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 557,
+		"name" : "Kavaklıdere",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 558,
+		"name" : "Kayapınar",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 559,
+		"name" : "Kaynarca",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 560,
+		"name" : "Kaynaşlı",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 561,
+		"name" : "Kazan",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 562,
+		"name" : "Kazımkarabekir",
+		"provinceId" : 70,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 563,
+		"name" : "Keban",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 564,
+		"name" : "Keçiborlu",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 565,
+		"name" : "Keçiören",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 566,
+		"name" : "Keles",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 567,
+		"name" : "Kelkit",
+		"provinceId" : 29,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 568,
+		"name" : "Kemah",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 569,
+		"name" : "Kemaliye",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 570,
+		"name" : "Kemalpaşa",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 571,
+		"name" : "Kemer",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 572,
+		"name" : "Kemer",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 573,
+		"name" : "Kepez",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 574,
+		"name" : "Kepsut",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 575,
+		"name" : "Keskin",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 576,
+		"name" : "Kestel",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 577,
+		"name" : "Keşan",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 578,
+		"name" : "Keşap",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 579,
+		"name" : "Kıbrıscık",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 580,
+		"name" : "Kınık",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 581,
+		"name" : "Kırıkhan",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 582,
+		"name" : "Kırıkkale",
+		"provinceId" : 71,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 583,
+		"name" : "Kırkağaç",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 584,
+		"name" : "Kırklareli",
+		"provinceId" : 39,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 585,
+		"name" : "Kırşehir",
+		"provinceId" : 40,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 586,
+		"name" : "Kızılcahamam",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 587,
+		"name" : "Kızılırmak",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 588,
+		"name" : "Kızılören",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 589,
+		"name" : "Kızıltepe",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 590,
+		"name" : "Kiğı",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 591,
+		"name" : "Kilimli",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 592,
+		"name" : "Kilis",
+		"provinceId" : 79,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 593,
+		"name" : "Kiraz",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 594,
+		"name" : "Kocaali",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 595,
+		"name" : "Kocaköy",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 596,
+		"name" : "Kocasinan",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 597,
+		"name" : "Koçarlı",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 598,
+		"name" : "Kofçaz",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 599,
+		"name" : "Konak",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 600,
+		"name" : "Konyaaltı",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 601,
+		"name" : "Korgan",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 602,
+		"name" : "Korgun",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 603,
+		"name" : "Korkut",
+		"provinceId" : 49,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 604,
+		"name" : "Korkuteli",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 605,
+		"name" : "Kovancılar",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 606,
+		"name" : "Koyulhisar",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 607,
+		"name" : "Kozaklı",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 608,
+		"name" : "Kozan",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 609,
+		"name" : "Kozlu",
+		"provinceId" : 67,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 610,
+		"name" : "Kozluk",
+		"provinceId" : 72,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 611,
+		"name" : "Köprübaşı",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 612,
+		"name" : "Köprübaşı",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 613,
+		"name" : "Köprüköy",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 614,
+		"name" : "Körfez",
+		"provinceId" : 41,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 615,
+		"name" : "Köse",
+		"provinceId" : 29,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 616,
+		"name" : "Köşk",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 617,
+		"name" : "Köyceğiz",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 618,
+		"name" : "Kula",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 619,
+		"name" : "Kulp",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 620,
+		"name" : "Kulu",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 621,
+		"name" : "Kuluncak",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 622,
+		"name" : "Kumlu",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 623,
+		"name" : "Kumluca",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 624,
+		"name" : "Kumru",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 625,
+		"name" : "Kurşunlu",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 626,
+		"name" : "Kurtalan",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 627,
+		"name" : "Kurucaşile",
+		"provinceId" : 74,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 628,
+		"name" : "Kuşadası",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 629,
+		"name" : "Kuyucak",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 630,
+		"name" : "Küçükçekmece",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 631,
+		"name" : "Küre",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 632,
+		"name" : "Kürtün",
+		"provinceId" : 29,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 633,
+		"name" : "Kütahya",
+		"provinceId" : 43,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 634,
+		"name" : "Laçin",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 635,
+		"name" : "Ladik",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 636,
+		"name" : "Lalapaşa",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 637,
+		"name" : "Lapseki",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 638,
+		"name" : "Lice",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 639,
+		"name" : "Lüleburgaz",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 640,
+		"name" : "Maçka",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 641,
+		"name" : "Maden",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 642,
+		"name" : "Mahmudiye",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 643,
+		"name" : "Malazgirt",
+		"provinceId" : 49,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 644,
+		"name" : "Malkara",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 645,
+		"name" : "Maltepe",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 646,
+		"name" : "Mamak",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 647,
+		"name" : "Manavgat",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 648,
+		"name" : "Manyas",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 649,
+		"name" : "Marmara",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 650,
+		"name" : "Marmaraereğlisi",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 651,
+		"name" : "Marmaris",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 652,
+		"name" : "Mazgirt",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 653,
+		"name" : "Mazıdağı",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 654,
+		"name" : "Mecitözü",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 655,
+		"name" : "Melikgazi",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 656,
+		"name" : "Menderes",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 657,
+		"name" : "Menemen",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 658,
+		"name" : "Mengen",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 659,
+		"name" : "Menteşe",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 660,
+		"name" : "Meram",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 661,
+		"name" : "Meriç",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 662,
+		"name" : "Merkezefendi",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 663,
+		"name" : "Merzifon",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 664,
+		"name" : "Mesudiye",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 665,
+		"name" : "Mezitli",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 666,
+		"name" : "Midyat",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 667,
+		"name" : "Mihalgazi",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 668,
+		"name" : "Mihalıççık",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 669,
+		"name" : "Milas",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 670,
+		"name" : "Mucur",
+		"provinceId" : 40,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 671,
+		"name" : "Mudanya",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 672,
+		"name" : "Mudurnu",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 673,
+		"name" : "Muradiye",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 674,
+		"name" : "Muratlı",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 675,
+		"name" : "Muratpaşa",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 676,
+		"name" : "Murgul",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 677,
+		"name" : "Musabeyli",
+		"provinceId" : 79,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 678,
+		"name" : "Mustafakemalpaşa",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 679,
+		"name" : "Muş",
+		"provinceId" : 49,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 680,
+		"name" : "Mut",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 681,
+		"name" : "Mutki",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 682,
+		"name" : "Nallıhan",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 683,
+		"name" : "Narlıdere",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 684,
+		"name" : "Narman",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 685,
+		"name" : "Nazımiye",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 686,
+		"name" : "Nazilli",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 687,
+		"name" : "Nevşehir",
+		"provinceId" : 50,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 688,
+		"name" : "Niğde",
+		"provinceId" : 51,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 689,
+		"name" : "Niksar",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 690,
+		"name" : "Nilüfer",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 691,
+		"name" : "Nizip",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 692,
+		"name" : "Nurdağı",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 693,
+		"name" : "Nurhak",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 694,
+		"name" : "Nusaybin",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 695,
+		"name" : "Odunpazarı",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 696,
+		"name" : "Of",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 697,
+		"name" : "Oğuzeli",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 698,
+		"name" : "Oğuzlar",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 699,
+		"name" : "Oltu",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 700,
+		"name" : "Olur",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 701,
+		"name" : "Ondokuzmayıs",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 702,
+		"name" : "Onikişubat",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 703,
+		"name" : "Orhaneli",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 704,
+		"name" : "Orhangazi",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 705,
+		"name" : "Orta",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 706,
+		"name" : "Ortaca",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 707,
+		"name" : "Ortahisar",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 708,
+		"name" : "Ortaköy",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 709,
+		"name" : "Ortaköy",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 710,
+		"name" : "Osmancık",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 711,
+		"name" : "Osmaneli",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 712,
+		"name" : "Osmangazi",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 713,
+		"name" : "Osmaniye",
+		"provinceId" : 80,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 714,
+		"name" : "Otlukbeli",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 715,
+		"name" : "Ovacık",
+		"provinceId" : 78,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 716,
+		"name" : "Ovacık",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 717,
+		"name" : "Ödemiş",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 718,
+		"name" : "Ömerli",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 719,
+		"name" : "Özalp",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 720,
+		"name" : "Özvatan",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 721,
+		"name" : "Palandöken",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 722,
+		"name" : "Palu",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 723,
+		"name" : "Pamukkale",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 724,
+		"name" : "Pamukova",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 725,
+		"name" : "Pasinler",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 726,
+		"name" : "Patnos",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 727,
+		"name" : "Payas",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 728,
+		"name" : "Pazar",
+		"provinceId" : 53,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 729,
+		"name" : "Pazar",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 730,
+		"name" : "Pazarcık",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 731,
+		"name" : "Pazarlar",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 732,
+		"name" : "Pazaryeri",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 733,
+		"name" : "Pazaryolu",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 734,
+		"name" : "Pehlivanköy",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 735,
+		"name" : "Pendik",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 736,
+		"name" : "Perşembe",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 737,
+		"name" : "Pertek",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 738,
+		"name" : "Pervari",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 739,
+		"name" : "Pınarbaşı",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 740,
+		"name" : "Pınarbaşı",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 741,
+		"name" : "Pınarhisar",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 742,
+		"name" : "Piraziz",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 743,
+		"name" : "Polateli",
+		"provinceId" : 79,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 744,
+		"name" : "Polatlı",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 745,
+		"name" : "Posof",
+		"provinceId" : 75,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 746,
+		"name" : "Pozantı",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 747,
+		"name" : "Pursaklar",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 748,
+		"name" : "Pülümür",
+		"provinceId" : 62,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 749,
+		"name" : "Pütürge",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 750,
+		"name" : "Refahiye",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 751,
+		"name" : "Reşadiye",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 752,
+		"name" : "Reyhanlı",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 753,
+		"name" : "Rize",
+		"provinceId" : 53,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 754,
+		"name" : "Safranbolu",
+		"provinceId" : 78,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 755,
+		"name" : "Saimbeyli",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 756,
+		"name" : "Salıpazarı",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 757,
+		"name" : "Salihli",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 758,
+		"name" : "Samandağ",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 759,
+		"name" : "Samsat",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 760,
+		"name" : "Sancaktepe",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 761,
+		"name" : "Sandıklı",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 762,
+		"name" : "Sapanca",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 763,
+		"name" : "Saray",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 764,
+		"name" : "Saray",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 765,
+		"name" : "Saraydüzü",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 766,
+		"name" : "Saraykent",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 767,
+		"name" : "Sarayköy",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 768,
+		"name" : "Sarayönü",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 769,
+		"name" : "Sarıcakaya",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 770,
+		"name" : "Sarıçam",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 771,
+		"name" : "Sarıgöl",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 772,
+		"name" : "Sarıkamış",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 773,
+		"name" : "Sarıkaya",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 774,
+		"name" : "Sarıoğlan",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 775,
+		"name" : "Sarıveliler",
+		"provinceId" : 70,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 776,
+		"name" : "Sarıyahşi",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 777,
+		"name" : "Sarıyer",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 778,
+		"name" : "Sarız",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 779,
+		"name" : "Saruhanlı",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 780,
+		"name" : "Sason",
+		"provinceId" : 72,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 781,
+		"name" : "Savaştepe",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 782,
+		"name" : "Savur",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 783,
+		"name" : "Seben",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 784,
+		"name" : "Seferihisar",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 785,
+		"name" : "Selçuk",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 786,
+		"name" : "Selçuklu",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 787,
+		"name" : "Selendi",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 788,
+		"name" : "Selim",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 789,
+		"name" : "Senirkent",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 790,
+		"name" : "Serdivan",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 791,
+		"name" : "Serik",
+		"provinceId" : 7,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 792,
+		"name" : "Serinhisar",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 793,
+		"name" : "Seydikemer",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 794,
+		"name" : "Seydiler",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 795,
+		"name" : "Seydişehir",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 796,
+		"name" : "Seyhan",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 797,
+		"name" : "Seyitgazi",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 798,
+		"name" : "Sındırgı",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 799,
+		"name" : "Siirt",
+		"provinceId" : 56,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 800,
+		"name" : "Silifke",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 801,
+		"name" : "Silivri",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 802,
+		"name" : "Silopi",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 803,
+		"name" : "Silvan",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 804,
+		"name" : "Simav",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 805,
+		"name" : "Sinanpaşa",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 806,
+		"name" : "Sincan",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 807,
+		"name" : "Sincik",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 808,
+		"name" : "Sinop",
+		"provinceId" : 57,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 809,
+		"name" : "Sivas",
+		"provinceId" : 58,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 810,
+		"name" : "Sivaslı",
+		"provinceId" : 64,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 811,
+		"name" : "Siverek",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 812,
+		"name" : "Sivrice",
+		"provinceId" : 23,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 813,
+		"name" : "Sivrihisar",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 814,
+		"name" : "Solhan",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 815,
+		"name" : "Soma",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 816,
+		"name" : "Sorgun",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 817,
+		"name" : "Söğüt",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 818,
+		"name" : "Söğütlü",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 819,
+		"name" : "Söke",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 820,
+		"name" : "Sulakyurt",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 821,
+		"name" : "Sultanbeyli",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 822,
+		"name" : "Sultandağı",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 823,
+		"name" : "Sultangazi",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 824,
+		"name" : "Sultanhisar",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 825,
+		"name" : "Suluova",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 826,
+		"name" : "Sulusaray",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 827,
+		"name" : "Sumbas",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 828,
+		"name" : "Sungurlu",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 829,
+		"name" : "Sur",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 830,
+		"name" : "Suruç",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 831,
+		"name" : "Susurluk",
+		"provinceId" : 10,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 832,
+		"name" : "Susuz",
+		"provinceId" : 36,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 833,
+		"name" : "Suşehri",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 834,
+		"name" : "Süleymanpaşa",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 835,
+		"name" : "Süloğlu",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 836,
+		"name" : "Sürmene",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 837,
+		"name" : "Sütçüler",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 838,
+		"name" : "Şabanözü",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 839,
+		"name" : "Şahinbey",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 840,
+		"name" : "Şalpazarı",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 841,
+		"name" : "Şaphane",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 842,
+		"name" : "Şarkışla",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 843,
+		"name" : "Şarkikaraağaç",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 844,
+		"name" : "Şarköy",
+		"provinceId" : 59,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 845,
+		"name" : "Şavşat",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 846,
+		"name" : "Şebinkarahisar",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 847,
+		"name" : "Şefaatli",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 848,
+		"name" : "Şehitkamil",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 849,
+		"name" : "Şehzadeler",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 850,
+		"name" : "Şemdinli",
+		"provinceId" : 30,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 851,
+		"name" : "Şenkaya",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 852,
+		"name" : "Şenpazar",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 853,
+		"name" : "Şereflikoçhisar",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 854,
+		"name" : "Şırnak",
+		"provinceId" : 73,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 855,
+		"name" : "Şile",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 856,
+		"name" : "Şiran",
+		"provinceId" : 29,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 857,
+		"name" : "Şirvan",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 858,
+		"name" : "Şişli",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 859,
+		"name" : "Şuhut",
+		"provinceId" : 3,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 860,
+		"name" : "Talas",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 861,
+		"name" : "Taraklı",
+		"provinceId" : 54,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 862,
+		"name" : "Tarsus",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 863,
+		"name" : "Taşkent",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 864,
+		"name" : "Taşköprü",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 865,
+		"name" : "Taşlıçay",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 866,
+		"name" : "Taşova",
+		"provinceId" : 5,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 867,
+		"name" : "Tatvan",
+		"provinceId" : 13,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 868,
+		"name" : "Tavas",
+		"provinceId" : 20,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 869,
+		"name" : "Tavşanlı",
+		"provinceId" : 43,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 870,
+		"name" : "Tefenni",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 871,
+		"name" : "Tekkeköy",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 872,
+		"name" : "Tekman",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 873,
+		"name" : "Tepebaşı",
+		"provinceId" : 26,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 874,
+		"name" : "Tercan",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 875,
+		"name" : "Termal",
+		"provinceId" : 77,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 876,
+		"name" : "Terme",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 877,
+		"name" : "Tillo",
+		"provinceId" : 56,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 878,
+		"name" : "Tire",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 879,
+		"name" : "Tirebolu",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 880,
+		"name" : "Tokat",
+		"provinceId" : 60,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 881,
+		"name" : "Tomarza",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 882,
+		"name" : "Tonya",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 883,
+		"name" : "Toprakkale",
+		"provinceId" : 80,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 884,
+		"name" : "Torbalı",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 885,
+		"name" : "Toroslar",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 886,
+		"name" : "Tortum",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 887,
+		"name" : "Torul",
+		"provinceId" : 29,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 888,
+		"name" : "Tosya",
+		"provinceId" : 37,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 889,
+		"name" : "Tufanbeyli",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 890,
+		"name" : "Tunceli",
+		"provinceId" : 62,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 891,
+		"name" : "Turgutlu",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 892,
+		"name" : "Turhal",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 893,
+		"name" : "Tuşba",
+		"provinceId" : 65,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 894,
+		"name" : "Tut",
+		"provinceId" : 2,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 895,
+		"name" : "Tutak",
+		"provinceId" : 4,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 896,
+		"name" : "Tuzla",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 897,
+		"name" : "Tuzluca",
+		"provinceId" : 76,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 898,
+		"name" : "Tuzlukçu",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 899,
+		"name" : "Türkeli",
+		"provinceId" : 57,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 900,
+		"name" : "Türkoğlu",
+		"provinceId" : 46,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 901,
+		"name" : "Uğurludağ",
+		"provinceId" : 19,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 902,
+		"name" : "Ula",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 903,
+		"name" : "Ulaş",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 904,
+		"name" : "Ulubey",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 905,
+		"name" : "Ulubey",
+		"provinceId" : 64,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 906,
+		"name" : "Uluborlu",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 907,
+		"name" : "Uludere",
+		"provinceId" : 73,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 908,
+		"name" : "Ulukışla",
+		"provinceId" : 51,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 909,
+		"name" : "Ulus",
+		"provinceId" : 74,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 910,
+		"name" : "Urla",
+		"provinceId" : 35,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 911,
+		"name" : "Uşak",
+		"provinceId" : 64,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 912,
+		"name" : "Uzundere",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 913,
+		"name" : "Uzunköprü",
+		"provinceId" : 22,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 914,
+		"name" : "Ümraniye",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 915,
+		"name" : "Ünye",
+		"provinceId" : 52,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 916,
+		"name" : "Ürgüp",
+		"provinceId" : 50,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 917,
+		"name" : "Üsküdar",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 918,
+		"name" : "Üzümlü",
+		"provinceId" : 24,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 919,
+		"name" : "Vakfıkebir",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 920,
+		"name" : "Varto",
+		"provinceId" : 49,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 921,
+		"name" : "Vezirköprü",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 922,
+		"name" : "Viranşehir",
+		"provinceId" : 63,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 923,
+		"name" : "Vize",
+		"provinceId" : 39,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 924,
+		"name" : "Yağlıdere",
+		"provinceId" : 28,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 925,
+		"name" : "Yahşihan",
+		"provinceId" : 71,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 926,
+		"name" : "Yahyalı",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 927,
+		"name" : "Yakakent",
+		"provinceId" : 55,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 928,
+		"name" : "Yakutiye",
+		"provinceId" : 25,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 929,
+		"name" : "Yalıhüyük",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 930,
+		"name" : "Yalova",
+		"provinceId" : 77,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 931,
+		"name" : "Yalvaç",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 932,
+		"name" : "Yapraklı",
+		"provinceId" : 18,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 933,
+		"name" : "Yatağan",
+		"provinceId" : 48,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 934,
+		"name" : "Yavuzeli",
+		"provinceId" : 27,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 935,
+		"name" : "Yayladağı",
+		"provinceId" : 31,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 936,
+		"name" : "Yayladere",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 937,
+		"name" : "Yazıhan",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 938,
+		"name" : "Yedisu",
+		"provinceId" : 12,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 939,
+		"name" : "Yenice",
+		"provinceId" : 17,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 940,
+		"name" : "Yenice",
+		"provinceId" : 78,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 941,
+		"name" : "Yeniçağa",
+		"provinceId" : 14,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 942,
+		"name" : "Yenifakılı",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 943,
+		"name" : "Yenimahalle",
+		"provinceId" : 6,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 944,
+		"name" : "Yenipazar",
+		"provinceId" : 9,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 945,
+		"name" : "Yenipazar",
+		"provinceId" : 11,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 946,
+		"name" : "Yenişarbademli",
+		"provinceId" : 32,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 947,
+		"name" : "Yenişehir",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 948,
+		"name" : "Yenişehir",
+		"provinceId" : 21,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 949,
+		"name" : "Yenişehir",
+		"provinceId" : 33,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 950,
+		"name" : "Yerköy",
+		"provinceId" : 66,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 951,
+		"name" : "Yeşilhisar",
+		"provinceId" : 38,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 952,
+		"name" : "Yeşilli",
+		"provinceId" : 47,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 953,
+		"name" : "Yeşilova",
+		"provinceId" : 15,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 954,
+		"name" : "Yeşilyurt",
+		"provinceId" : 44,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 955,
+		"name" : "Yeşilyurt",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 956,
+		"name" : "Yığılca",
+		"provinceId" : 81,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 957,
+		"name" : "Yıldırım",
+		"provinceId" : 16,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 958,
+		"name" : "Yıldızeli",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 959,
+		"name" : "Yomra",
+		"provinceId" : 61,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 960,
+		"name" : "Yozgat",
+		"provinceId" : 66,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 961,
+		"name" : "Yumurtalık",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 962,
+		"name" : "Yunak",
+		"provinceId" : 42,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 963,
+		"name" : "Yunusemre",
+		"provinceId" : 45,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 964,
+		"name" : "Yusufeli",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 965,
+		"name" : "Yüksekova",
+		"provinceId" : 30,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 966,
+		"name" : "Yüreğir",
+		"provinceId" : 1,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 967,
+		"name" : "Zara",
+		"provinceId" : 58,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 968,
+		"name" : "Zeytinburnu",
+		"provinceId" : 34,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 969,
+		"name" : "Zile",
+		"provinceId" : 60,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 970,
+		"name" : "Zonguldak",
+		"provinceId" : 67,
+		"isCenterCity" : 1
+	},
+	{
+		"id" : 971,
+		"name" : "Kemalpaşa",
+		"provinceId" : 8,
+		"isCenterCity" : 0
+	},
+	{
+		"id" : 972,
+		"name" : "Sultanhanı",
+		"provinceId" : 68,
+		"isCenterCity" : 0
+	}
+]

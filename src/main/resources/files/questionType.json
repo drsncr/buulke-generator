@@ -1,0 +1,18 @@
+[
+	{
+		"id" : 1,
+		"clause" : "Aşağıdaki ilçelerden hangisi %s ilinin bir ilçesidir?"
+	},
+	{
+		"id" : 2,
+		"clause" : "Aşağıdaki ilçelerden hangisi %s ilinin bir ilçesi değildir?"
+	},
+	{
+		"id" : 3,
+		"clause" : "Aşağıdaki illerden hangisi %s iline komşu değildir?"
+	},
+	{
+		"id" : 4,
+		"clause" : "%s hangi ilin bir ilçesidir?"
+	}
+]
