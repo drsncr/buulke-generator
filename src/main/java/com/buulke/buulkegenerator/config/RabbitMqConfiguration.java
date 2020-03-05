@@ -24,7 +24,7 @@ public class RabbitMqConfiguration {
     @Bean
     Queue queue() {
         String queueName = env.getProperty("rabbitmq.queueName");
-        return new Queue(queueName, true);
+        return new Queue(queueName, false);
     }
 
     @Bean
