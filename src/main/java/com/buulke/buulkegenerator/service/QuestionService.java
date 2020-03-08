@@ -21,8 +21,8 @@ public class QuestionService {
 
     public void generateQuestion(){
         Question question = questionGenerator.getRandomQuestion();
-        String exchangeName = env.getProperty("rabbitmq.topicExchangeName");
-        String routingName = "question.generator";
-        rabbitTemplate.convertAndSend(exchangeName, routingName, question);
+        String routingKey = env.getProperty("rabbitmq.questionRoutingKey");
+        rabbitTemplate.convertAndSend(routingKey, question);
+        System.out.println("rabbitTemplate.convertAndSend() is called");
     }
 }

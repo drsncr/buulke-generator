@@ -22,15 +22,27 @@ public class RabbitMqConfiguration {
     }
 
     @Bean
-    Queue queue() {
-        String queueName = env.getProperty("rabbitmq.queueName");
+    Queue questionQueue() {
+        String queueName = env.getProperty("rabbitmq.questionQueueName");
         return new Queue(queueName, false);
     }
 
     @Bean
-    Binding binding(TopicExchange exchange, Queue queue) {
-        String routingKey = env.getProperty("rabbitmq.routingKey");
-        return BindingBuilder.bind(queue).to(exchange).with(routingKey);
+    Queue orderqueue() {
+        String queueName = env.getProperty("rabbitmq.orderQueueName");
+        return new Queue(queueName, false);
+    }
+
+    @Bean
+    Binding questionBinding(TopicExchange exchange) {
+        String routingKey = env.getProperty("rabbitmq.questionRoutingKey");
+        return BindingBuilder.bind(questionQueue()).to(exchange).with(routingKey);
+    }
+
+    @Bean
+    Binding orderBinding(TopicExchange exchange) {
+        String routingKey = env.getProperty("rabbitmq.orderRoutingKey");
+        return BindingBuilder.bind(orderqueue()).to(exchange).with(routingKey);
     }
 
     @Bean
